@@ -13,24 +13,17 @@ _Collaborate and work together through GitHub Issues._
 
 </header>
 
-## Step 3: Assigning Issues
+## Step 4: Resolving an Issue
 
-Great job commenting on an issue! :wave:
+Once an issue has been addressed or the task is complete, it's time to close it. Closing an issue helps keep your project organized and signals to your team that no further action is needed.
 
-### :busts_in_silhouette: What is Issue Assigning?
+### :white_check_mark: Close the Issue:
 
-Assigning an issue to a team member allows the project manager (or any collaborator) to delegate the task to someone responsible for completing it by a specific deadline. This helps distribute work efficiently and ensures that no task is left unfinished.
+- Scroll to the bottom of the issue page.
+- You’ll see a button labeled **"Close issue"**.
+- Click this button to mark the issue as resolved.
 
----
-
-### :clipboard: Task: Assign an Issue
-
-1. Open the issue you want to assign.
-2. On the right side of the issue page, locate the **Assignees** section.
-3. Click the **"Assignees"** field and select the appropriate person from the list of contributors.
-4. You can assign the issue to yourself or to another team member.
-
-Once assigned, the issue becomes part of that person’s task list and can be tracked through their GitHub dashboard. :white_check_mark:
+That's it — your issue is now closed and archived! :tada:
 
 <footer>
 
