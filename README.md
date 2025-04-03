@@ -13,17 +13,19 @@ _Collaborate and work together through GitHub Issues._
 
 </header>
 
-## Step 4: Resolving an Issue
+## Step 5: Reopening an Issue
 
-Once an issue has been addressed or the task is complete, it's time to close it. Closing an issue helps keep your project organized and signals to your team that no further action is needed.
+Sometimes, an issue might need to be revisited — maybe the problem wasn’t fully resolved, or new information has come up. In these cases, you can easily reopen the issue to resume the discussion and work.
 
-### :white_check_mark: Close the Issue:
+### :repeat: Reopen the Issue:
 
-- Scroll to the bottom of the issue page.
-- You’ll see a button labeled **"Close issue"**.
-- Click this button to mark the issue as resolved.
+- Click the issues tab
+- Click the Closed tab
+- Navigate to the bottom of the closed issue page.
+- You’ll see a button labeled **"Reopen issue"**.
+- Click this button to reopen the issue and continue tracking progress.
 
-That's it — your issue is now closed and archived! :tada:
+Once reopened, team members can comment, update, or assign the issue as needed. :hammer_and_wrench:
 
 <footer>
 
