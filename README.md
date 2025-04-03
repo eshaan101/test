@@ -13,54 +13,35 @@ _Collaborate and work together through GitHub Issues._
 
 </header>
 
-## Step 1: Creating an Issue
+## Step 2: Collaborating on Issues
 
-Welcome to GitHub Issues!
+Well done creating an issue! :wave:
 
-### :question: What is an Issue?
+### What is Collaboration on Issues?
 
-An **Issue** is a task, bug, or feature request that you can track and follow up on within a project. It's a great way to manage tasks and let your team know what needs to get done.
+Collaboration on issues is an array of ways for teams to work together, manage, and resolve issues. It involves communication, feedback, and teamwork to track, solve, and complete problems effectively.
 
-The best way to start tracking work is by opening an issue. When creating an issue, you can write clear descriptions and apply labels to help your team understand and prioritize it. The key is to provide a **concise and detailed description** of the task at hand, along with any relevant context.
+### Key Elements of Collaborating on an Issue:
 
----
+- **Commenting**: Team members can comment on an issue to ask questions, provide feedback, or clarify details.
 
-### :keyboard: Task: Open an Issue
+- **@Mentions**: You can `@mention` team members in comments to notify them and involve them directly in the conversation.
 
-1. Go to the **Issues** tab in your GitHub repository.
-2. Navigate to the main page of your repository on GitHub.
-3. Under your repository name, click **Issues**.
-4. Click **New issue** to create a new one.
-5. If your repository uses issue templates:
-   - Click **Get started** next to the type of issue you'd like to open.
-6. If not:
-   - Click **Open a blank issue**.
+- **Tracking Progress**: Team members can update the status or provide updates, keeping everyone informed about the progress.
 
 ---
 
-### 📝 Fill Out the Issue Form
+### How to Comment on an Issue
 
-7. In the **Title** field, type a clear and concise summary of the task or problem.
-8. In the **Comment body** field, provide a detailed description of your issue:
-   - Include any relevant context.
-   - Add background information or reproduction steps.
-
----
-
-### :label: Add a Label to Your Issue
-
-Adding a label helps categorize your issue and allows it to be easily referenced in pull requests or discussions.
-
-1. In the horizontal navigation bar, go to the **Issues** tab (highlighted in orange).
-2. Above the list of issues or pull requests, click **Labels**.
-3. To the right of the search field, click **New label**.
-4. Under **Label name**, enter a name for your label.
-5. Under **Description**, type a brief explanation to help others understand the label’s purpose.
-6. Click **Create label** / **Save changes** / **Delete** depending on your task.
-
----
-
-When you're finished, click **Submit new issue** to create and publish the issue. :tada:
+1. Open the issue you want to comment on.
+2. Scroll down to the comment section at the bottom of the page.
+3. Make sure you format your comment to be in between 2 asterisks: `**comment_name**`
+4. Type your comment in the text box. You can provide an update such as:  
+   `**The task is complete**` or `**Issue resolved, everything is working as expected**`
+5. You can also mention a team member in your comment:
+   - While writing your comment, type `@` followed by the username of the person you want to mention (e.g., `@username`).
+   - This will notify the person, allowing them to respond or take action.
+6. Once you’ve written your message, click the **Comment** button to post it.
 
 <footer>
 
